@@ -1,0 +1,23 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "A pretty simple node.js application. Gotta start some place.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatenori/ep2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatenori/ep2/issues"
+  },
+  "homepage": "https://github.com/tatenori/ep2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
